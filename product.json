@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 99000,
+    "description": "High performance laptop",
+    "category": "Electronics",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Laptop"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 50000,
+    "description": "Latest Android phone",
+    "category": "Electronics",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Smartphone"
+  },
+  {
+    "id": 3,
+    "name": "Tablet",
+    "price": 30000,
+    "description": "Portable Android tablet",
+    "category": "Electronics",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Tablet"
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "price": 20000,
+    "description": "Fitness tracking smartwatch",
+    "category": "Electronics",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Smartwatch"
+  },
+  {
+    "id": 5,
+    "name": "Headphones",
+    "price": 12000,
+    "description": "Noise-cancelling headphones",
+    "category": "Accessories",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Headphones"
+  },
+  {
+    "id": 6,
+    "name": "Bluetooth Speaker",
+    "price": 8000,
+    "description": "Portable wireless speaker",
+    "category": "Electronics",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Bluetooth+Speaker"
+  },
+  {
+    "id": 7,
+    "name": "Camera",
+    "price": 60000,
+    "description": "DSLR professional camera",
+    "category": "Electronics",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Camera"
+  },
+  {
+    "id": 8,
+    "name": "Power Bank",
+    "price": 4000,
+    "description": "10,000mAh portable charger",
+    "category": "Accessories",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Power+Bank"
+  },
+  {
+    "id": 9,
+    "name": "Shoes",
+    "price": 8000,
+    "description": "Comfortable running shoes",
+    "category": "Fashion",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Shoes"
+  },
+  {
+    "id": 10,
+    "name": "Watch",
+    "price": 15000,
+    "description": "Stylish wrist watch",
+    "category": "Fashion",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Watch"
+  },
+  {
+    "id": 11,
+    "name": "T-Shirt",
+    "price": 2500,
+    "description": "Cotton casual t-shirt",
+    "category": "Fashion",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=T-Shirt"
+  },
+  {
+    "id": 12,
+    "name": "Jeans",
+    "price": 5000,
+    "description": "Slim fit denim jeans",
+    "category": "Fashion",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Jeans"
+  },
+  {
+    "id": 13,
+    "name": "Jacket",
+    "price": 10000,
+    "description": "Winter warm jacket",
+    "category": "Fashion",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Jacket"
+  },
+  {
+    "id": 14,
+    "name": "Sunglasses",
+    "price": 6000,
+    "description": "UV protection sunglasses",
+    "category": "Accessories",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Sunglasses"
+  },
+  {
+    "id": 15,
+    "name": "Handbag",
+    "price": 9000,
+    "description": "Leather handbag",
+    "category": "Fashion",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Handbag"
+  },
+  {
+    "id": 16,
+    "name": "Wallet",
+    "price": 4000,
+    "description": "Men’s leather wallet",
+    "category": "Accessories",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Wallet"
+  },
+  {
+    "id": 17,
+    "name": "Cap",
+    "price": 2000,
+    "description": "Sports cap",
+    "category": "Fashion",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Cap"
+  },
+  {
+    "id": 18,
+    "name": "Belt",
+    "price": 3500,
+    "description": "Leather belt",
+    "category": "Fashion",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Belt"
+  },
+  {
+    "id": 19,
+    "name": "Scarf",
+    "price": 3000,
+    "description": "Winter scarf",
+    "category": "Fashion",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Scarf"
+  },
+  {
+    "id": 20,
+    "name": "Backpack",
+    "price": 7000,
+    "description": "Travel backpack",
+    "category": "Accessories",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Backpack"
+  },
+  {
+    "id": 21,
+    "name": "Rice 5kg",
+    "price": 2000,
+    "description": "Premium basmati rice",
+    "category": "Food",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Rice+5kg"
+  },
+  {
+    "id": 22,
+    "name": "Wheat Flour 5kg",
+    "price": 1800,
+    "description": "Whole wheat flour",
+    "category": "Food",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Wheat+Flour+5kg"
+  },
+  {
+    "id": 23,
+    "name": "Cooking Oil 1L",
+    "price": 1000,
+    "description": "Refined sunflower oil",
+    "category": "Food",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Cooking+Oil+1L"
+  },
+  {
+    "id": 24,
+    "name": "Milk 1L",
+    "price": 200,
+    "description": "Fresh cow milk",
+    "category": "Food",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Milk+1L"
+  },
+  {
+    "id": 25,
+    "name": "Bread",
+    "price": 300,
+    "description": "Whole wheat bread",
+    "category": "Food",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Bread"
+  },
+  {
+    "id": 26,
+    "name": "Eggs (12 pack)",
+    "price": 400,
+    "description": "Farm fresh eggs",
+    "category": "Food",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Eggs+%2812+pack%29"
+  },
+  {
+    "id": 27,
+    "name": "Sugar 1kg",
+    "price": 500,
+    "description": "Refined sugar",
+    "category": "Food",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Sugar+1kg"
+  },
+  {
+    "id": 28,
+    "name": "Salt 1kg",
+    "price": 100,
+    "description": "Iodized salt",
+    "category": "Food",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Salt+1kg"
+  },
+  {
+    "id": 29,
+    "name": "Tea 500g",
+    "price": 600,
+    "description": "Premium tea leaves",
+    "category": "Food",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Tea+500g"
+  },
+  {
+    "id": 30,
+    "name": "Coffee 250g",
+    "price": 800,
+    "description": "Ground coffee beans",
+    "category": "Food",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Coffee+250g"
+  },
+  {
+    "id": 31,
+    "name": "Soap",
+    "price": 200,
+    "description": "Bathing soap bar",
+    "category": "Daily Essentials",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Soap"
+  },
+  {
+    "id": 32,
+    "name": "Shampoo 500ml",
+    "price": 600,
+    "description": "Anti-dandruff shampoo",
+    "category": "Daily Essentials",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Shampoo+500ml"
+  },
+  {
+    "id": 33,
+    "name": "Toothpaste",
+    "price": 300,
+    "description": "Fluoride toothpaste",
+    "category": "Daily Essentials",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Toothpaste"
+  },
+  {
+    "id": 34,
+    "name": "Toothbrush",
+    "price": 200,
+    "description": "Soft bristle toothbrush",
+    "category": "Daily Essentials",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Toothbrush"
+  },
+  {
+    "id": 35,
+    "name": "Detergent Powder 1kg",
+    "price": 700,
+    "description": "Washing powder",
+    "category": "Daily Essentials",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Detergent+Powder+1kg"
+  },
+  {
+    "id": 36,
+    "name": "Dishwashing Liquid",
+    "price": 400,
+    "description": "Lemon dishwashing liquid",
+    "category": "Daily Essentials",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Dishwashing+Liquid"
+  },
+  {
+    "id": 37,
+    "name": "Hand Sanitizer",
+    "price": 500,
+    "description": "Alcohol-based sanitizer",
+    "category": "Daily Essentials",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Hand+Sanitizer"
+  },
+  {
+    "id": 38,
+    "name": "Face Mask (pack of 10)",
+    "price": 1000,
+    "description": "Protective face masks",
+    "category": "Daily Essentials",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Face+Mask+%28pack+of+10%29"
+  },
+  {
+    "id": 39,
+    "name": "Tissue Box",
+    "price": 300,
+    "description": "Soft tissues",
+    "category": "Daily Essentials",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Tissue+Box"
+  },
+  {
+    "id": 40,
+    "name": "Cleaning Mop",
+    "price": 1500,
+    "description": "Floor cleaning mop",
+    "category": "Daily Essentials",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Cleaning+Mop"
+  },
+  {
+    "id": 41,
+    "name": "Bed Sheet",
+    "price": 4000,
+    "description": "Cotton double bed sheet",
+    "category": "Home",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Bed+Sheet"
+  },
+  {
+    "id": 42,
+    "name": "Pillow",
+    "price": 2000,
+    "description": "Soft sleeping pillow",
+    "category": "Home",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Pillow"
+  },
+  {
+    "id": 43,
+    "name": "Blanket",
+    "price": 6000,
+    "description": "Warm winter blanket",
+    "category": "Home",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Blanket"
+  },
+  {
+    "id": 44,
+    "name": "Curtains",
+    "price": 5000,
+    "description": "Decorative window curtains",
+    "category": "Home",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Curtains"
+  },
+  {
+    "id": 45,
+    "name": "Dining Set",
+    "price": 30000,
+    "description": "Wooden dining table set",
+    "category": "Home",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Dining+Set"
+  },
+  {
+    "id": 46,
+    "name": "Chair",
+    "price": 4000,
+    "description": "Plastic chair",
+    "category": "Home",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Chair"
+  },
+  {
+    "id": 47,
+    "name": "Sofa",
+    "price": 50000,
+    "description": "3-seater sofa",
+    "category": "Home",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Sofa"
+  },
+  {
+    "id": 48,
+    "name": "Lamp",
+    "price": 2500,
+    "description": "Bedside table lamp",
+    "category": "Home",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Lamp"
+  },
+  {
+    "id": 49,
+    "name": "Cookware Set",
+    "price": 10000,
+    "description": "Non-stick cookware set",
+    "category": "Home",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Cookware+Set"
+  },
+  {
+    "id": 50,
+    "name": "Vacuum Cleaner",
+    "price": 15000,
+    "description": "Electric vacuum cleaner",
+    "category": "Home",
+    "image": "https://dummyimage.com/800x600/0d6efd/ffffff&text=Vacuum+Cleaner"
+  }
+]
